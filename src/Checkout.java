@@ -48,8 +48,8 @@ public class Checkout {
 	 * Retorna o custo total dos itens, em centavos (sem impostos)
 	 * @return O custo total dos itens
 	 */
-	public int custoTotal() {
-		// TODO construir o código
+	public int custoTotal(){
+		
 		return 0;
 	}
 	
@@ -57,7 +57,7 @@ public class Checkout {
 	 * Retorna o total dos impostos dos itens, em centavos
 	 * @return O total dos impostos
 	 */
-	public int impostoTotal() {
+	public int impostoTotal(){
 		// TODO construir o código
 		return 0;
 	}
